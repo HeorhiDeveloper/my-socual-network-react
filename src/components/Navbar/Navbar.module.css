@@ -1,0 +1,38 @@
+.nav {
+    grid-area: n;
+    background-color: #53B1D5;
+    padding: 20px;
+    border-radius: 4px;
+    margin-right: 2px;
+    
+}
+
+.item {
+    padding-top: 5px;
+}
+
+.item a {
+    text-decoration: none;
+    font-size: 18px;
+    /* text-transform: uppercase; */
+    font-family: sans-serif;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.876);
+}
+
+.item a:hover {
+   color: white;
+}
+
+
+.item a.active {
+    color: white;
+}
+
+
+
+
+
+
+
+ 

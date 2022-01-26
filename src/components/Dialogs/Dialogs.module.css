@@ -1,0 +1,28 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;    
+}
+
+.dialogItems {
+    padding: 10px;
+    
+}
+
+.dialog a {
+    text-decoration: none;
+    color: black;    
+}
+
+.dialog a:hover  {
+    color: white;
+}
+
+.messages {
+    padding: 10px;
+}
+
+.formTextarea {
+    resize: none;
+    width: 200px;
+    height: 50px;
+}

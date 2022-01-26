@@ -1,0 +1,42 @@
+.header {
+  grid-area: h;
+  background-color: #53B1D5;
+  border-radius: 4px;
+  margin-bottom: 2px;
+}
+
+.socialLogo {
+  margin-left: 10px;
+  width: 60px;
+  height: 60px;
+}
+
+.loginBlock {
+  float: right;
+  margin-right: 20px;
+  margin-top: 4px;
+}
+
+.loginBlock a {
+  margin-left: -50px;
+  font-size: 18px;
+  text-decoration: none;
+  color: white;
+}
+
+.emailBlock a {
+  font-size: 18px;
+  text-decoration: none;
+  color: white;
+}
+
+.emailBlock {
+  float: right;
+  margin-top: 17.2px;
+  margin-right: -220px;
+}  
+
+.login {
+  margin-right: 200px;
+}
+

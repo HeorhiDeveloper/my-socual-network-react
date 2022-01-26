@@ -1,0 +1,22 @@
+.peoplePhoto {
+    width: 100px;
+    height: 100px;
+} 
+
+.selectedPagePeople {
+    border: 1px solid white;
+    font-weight: bold;
+    color: white;
+    border-radius: 50px;
+}
+
+.peoplesNumbers {
+    font-size: 16px;
+    letter-spacing: 2px;
+   
+}
+
+.peoples {
+    margin-top: 20px;
+    margin-left: 10px;
+}

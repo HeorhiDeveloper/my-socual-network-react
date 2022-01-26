@@ -1,0 +1,21 @@
+.item {
+    color: green;
+}
+
+.item img {
+    width: 50px;
+}
+
+.postBlock {
+    padding: 10px;
+}
+
+.posts {
+    margin-top: 10px;
+}
+
+.formTextarea {
+    resize: none;
+    width: 200px;
+    height: 50px;
+}

@@ -1,0 +1,16 @@
+.item {
+    color: black;
+}
+
+.item img {
+    display: block;
+    border-radius: 50px;
+    width: 64px;
+} 
+
+.text {
+    display: block;
+    margin-left: 70px;
+    margin-top: -25px;
+    margin-bottom: 20px;
+}
